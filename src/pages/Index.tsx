@@ -21,12 +21,14 @@ const Index = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="md:col-span-2">
               <div className="flex items-center space-x-3 mb-4">
-                <div className="w-10 h-10 primary-gradient rounded-lg flex items-center justify-center">
-                  <span className="text-primary-foreground font-bold">CW</span>
-                </div>
+                <img 
+                  src="/lovable-uploads/0855a2e4-97f6-41ad-8c89-bd28d03da1f2.png" 
+                  alt="DG Motorz Logo" 
+                  className="w-12 h-12 object-contain"
+                />
                 <div>
-                  <div className="text-xl font-bold">Chennai Wheels</div>
-                  <div className="text-sm text-secondary-foreground/80">Professional Bike Service</div>
+                  <div className="text-xl font-bold">DG MOTORZ</div>
+                  <div className="text-sm text-secondary-foreground/80">The Dream To Be True</div>
                 </div>
               </div>
               <p className="text-secondary-foreground/80 max-w-md">
@@ -49,7 +51,7 @@ const Index = () => {
               <h3 className="text-lg font-semibold mb-4">Contact Info</h3>
               <ul className="space-y-2 text-secondary-foreground/80">
                 <li>Phone: +91 98765 43210</li>
-                <li>Email: service@chennaiwheels.com</li>
+                <li>Email: service@dgmotorz.com</li>
                 <li>Address: 123 Anna Salai, T. Nagar</li>
                 <li>Chennai, Tamil Nadu - 600017</li>
               </ul>
@@ -57,7 +59,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-secondary-foreground/20 mt-8 pt-8 text-center text-secondary-foreground/60">
-            <p>&copy; 2024 Chennai Wheels. All rights reserved. | Professional bike service in Chennai</p>
+            <p>&copy; 2024 DG MOTORZ. All rights reserved. | Professional bike service in Chennai</p>
           </div>
         </div>
       </footer>

@@ -19,13 +19,15 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
-            <div className="w-10 h-10 primary-gradient rounded-lg flex items-center justify-center">
-              <Wrench className="w-6 h-6 text-primary-foreground" />
-            </div>
+          <Link to="/" className="flex items-center space-x-3">
+            <img 
+              src="/lovable-uploads/0855a2e4-97f6-41ad-8c89-bd28d03da1f2.png" 
+              alt="DG Motorz Logo" 
+              className="w-12 h-12 object-contain"
+            />
             <div>
-              <div className="text-xl font-bold text-foreground">Chennai Wheels</div>
-              <div className="text-xs text-muted-foreground">Bike Service</div>
+              <div className="text-xl font-bold text-foreground">DG MOTORZ</div>
+              <div className="text-xs text-muted-foreground">The Dream To Be True</div>
             </div>
           </Link>
 

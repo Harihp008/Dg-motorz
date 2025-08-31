@@ -32,9 +32,9 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: "service@chennaiwheels.com",
+      details: "service@dgmotorz.com",
       description: "Send us your queries anytime",
-      action: () => window.open("mailto:service@chennaiwheels.com")
+      action: () => window.open("mailto:service@dgmotorz.com")
     },
     {
       icon: <MapPin className="w-6 h-6" />,
@@ -122,7 +122,7 @@ const Contact = () => {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Chennai Wheels Location"
+                    title="DG Motorz Location"
                   ></iframe>
                 </div>
                 <Button 

@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="inline-flex items-center space-x-2 bg-primary/20 backdrop-blur-sm border border-primary/30 rounded-full px-4 py-2 mb-8">
             <Star className="w-4 h-4 text-primary" />
             <span className="text-primary-foreground font-medium">
-              Chennai's #1 Bike Service Center
+              Chennai's #1 Bike Service Center - DG MOTORZ
             </span>
           </div>
 

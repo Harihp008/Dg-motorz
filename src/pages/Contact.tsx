@@ -39,9 +39,9 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
-      details: "123 Anna Salai, T. Nagar",
-      description: "Chennai, Tamil Nadu - 600017",
-      action: () => window.open("https://maps.google.com/?q=Anna+Salai+T+Nagar+Chennai")
+      details: "123 Avinashi Road, Tiruppur",
+      description: "Tiruppur, Tamil Nadu - 641602",
+      action: () => window.open("https://maps.google.com/?q=Avinashi+Road+Tiruppur")
     }
   ];
 
@@ -69,7 +69,7 @@ const Contact = () => {
             </h1>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Need assistance? Have questions? Our expert team is here to help you 
-              with all your bike service needs. Reach out to us anytime!
+              with all your bike service needs in Tiruppur. Reach out to us anytime!
             </p>
           </div>
         </div>
@@ -115,7 +115,7 @@ const Contact = () => {
               <CardContent>
                 <div className="aspect-video rounded-lg overflow-hidden bg-muted mb-6">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.8663894789073!2d80.24439931482186!3d13.043075990813935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a526650e0b6c595%3A0x4f74ddbff946af6b!2sAnna%20Salai%2C%20T.%20Nagar%2C%20Chennai%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1647875432123!5m2!1sen!2sin"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.3042890845046!2d77.33749431482198!3d11.108621992142857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba907fb06acf67f%3A0x4f74ddbff946af6b!2sAvinashi%20Rd%2C%20Tiruppur%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1647875432123!5m2!1sen!2sin"
                     width="100%"
                     height="100%"
                     style={{ border: 0 }}
@@ -127,7 +127,7 @@ const Contact = () => {
                 </div>
                 <Button 
                   className="w-full primary-gradient" 
-                  onClick={() => window.open("https://maps.google.com/?q=Anna+Salai+T+Nagar+Chennai")}
+                  onClick={() => window.open("https://maps.google.com/?q=Avinashi+Road+Tiruppur")}
                 >
                   <Navigation className="w-4 h-4 mr-2" />
                   Get Directions
@@ -202,14 +202,14 @@ const Contact = () => {
               Service <span className="text-primary">Areas</span>
             </h2>
             <p className="text-lg text-muted-foreground">
-              We provide pickup and drop services across these Chennai areas:
+              We provide pickup and drop services across these Tiruppur areas:
             </p>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
             {[
-              "T. Nagar", "Anna Nagar", "Adyar", "Velachery", "Porur", "Mylapore",
-              "Nungambakkam", "Guindy", "Chromepet", "Tambaram", "Sholinganallur", "OMR"
+              "Palladam Road", "Kumaran Nagar", "Gandhi Nagar", "Textile Park", "Avinashi Road", "Veerapandi",
+              "Dharapuram Road", "Udumalpet Road", "Kangeyam Road", "Perundurai", "Pooluvapatti", "Angeripalayam"
             ].map((area, index) => (
               <div key={index} className="text-center p-4 bg-card rounded-lg border border-border hover:border-primary/20 smooth-transition">
                 <div className="text-foreground font-medium">{area}</div>

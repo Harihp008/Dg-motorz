@@ -32,7 +32,7 @@ const Index = () => {
                 </div>
               </div>
               <p className="text-secondary-foreground/80 max-w-md">
-                Chennai's trusted bike service center with expert technicians, 
+                Tiruppur's trusted bike service center with expert technicians, 
                 genuine parts, and convenient pickup & drop services.
               </p>
             </div>
@@ -52,14 +52,14 @@ const Index = () => {
               <ul className="space-y-2 text-secondary-foreground/80">
                 <li>Phone: +91 98765 43210</li>
                 <li>Email: service@dgmotorz.com</li>
-                <li>Address: 123 Anna Salai, T. Nagar</li>
-                <li>Chennai, Tamil Nadu - 600017</li>
+                <li>Address: 123 Avinashi Road, Tiruppur</li>
+                <li>Tiruppur, Tamil Nadu - 641602</li>
               </ul>
             </div>
           </div>
           
           <div className="border-t border-secondary-foreground/20 mt-8 pt-8 text-center text-secondary-foreground/60">
-            <p>&copy; 2024 DG MOTORZ. All rights reserved. | Professional bike service in Chennai</p>
+            <p>&copy; 2024 DG MOTORZ. All rights reserved. | Professional bike service in Tiruppur</p>
           </div>
         </div>
       </footer>

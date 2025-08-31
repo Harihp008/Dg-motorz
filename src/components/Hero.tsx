@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <img
           src={heroImage}
-          alt="Professional bike service in Chennai"
+          alt="Professional bike service in Tiruppur"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 hero-gradient opacity-80"></div>
@@ -22,7 +22,7 @@ const Hero = () => {
           <div className="inline-flex items-center space-x-2 bg-primary/20 backdrop-blur-sm border border-primary/30 rounded-full px-4 py-2 mb-8">
             <Star className="w-4 h-4 text-primary" />
             <span className="text-primary-foreground font-medium">
-              Chennai's #1 Bike Service Center - DG MOTORZ
+              Tiruppur's #1 Bike Service Center - DG MOTORZ
             </span>
           </div>
 
@@ -35,7 +35,7 @@ const Hero = () => {
           {/* Description */}
           <p className="text-xl sm:text-2xl text-primary-foreground/90 mb-8 max-w-3xl mx-auto leading-relaxed">
             Professional maintenance, repairs, and detailing services for all bike models. 
-            Quick turnaround with pickup & drop facility across Chennai.
+            Quick turnaround with pickup & drop facility across Tiruppur.
           </p>
 
           {/* CTA Buttons */}

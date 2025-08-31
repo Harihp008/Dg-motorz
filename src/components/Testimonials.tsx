@@ -5,42 +5,42 @@ const Testimonials = () => {
   const testimonials = [
     {
       name: "Rajesh Kumar",
-      location: "T. Nagar, Chennai",
+      location: "Palladam Road, Tiruppur",
       rating: 5,
       text: "Excellent service! They picked up my Royal Enfield and delivered it back in perfect condition. The engine runs smoother than ever before. Highly recommended!",
       bike: "Royal Enfield Classic 350"
     },
     {
       name: "Priya Menon", 
-      location: "Anna Nagar, Chennai",
+      location: "Kumaran Nagar, Tiruppur",
       rating: 5,
       text: "Professional and reliable service. The team is very knowledgeable and explained everything clearly. Fair pricing with no hidden charges. Will definitely return!",
       bike: "Honda Activa 6G"
     },
     {
       name: "Mohammed Ali",
-      location: "Velachery, Chennai", 
+      location: "Textile Park, Tiruppur", 
       rating: 5,
       text: "Quick turnaround and excellent work quality. My Pulsar was making strange noises, but they diagnosed and fixed it perfectly. Great customer service too!",
       bike: "Bajaj Pulsar NS200"
     },
     {
       name: "Kavitha Srinivasan",
-      location: "Adyar, Chennai",
+      location: "Gandhi Nagar, Tiruppur",
       rating: 5,
       text: "The pickup and drop service is very convenient. They keep you updated throughout the process. My bike looks and runs like new after their premium service!",
       bike: "TVS Jupiter"
     },
     {
       name: "Arjun Reddy",
-      location: "Porur, Chennai",
+      location: "Avinashi Road, Tiruppur",
       rating: 5,
-      text: "Best bike service center in Chennai! They use genuine parts and their technicians are highly skilled. The annual package is great value for money.",
+      text: "Best bike service center in Tiruppur! They use genuine parts and their technicians are highly skilled. The annual package is great value for money.",
       bike: "KTM Duke 390"
     },
     {
       name: "Lakshmi Narayanan",
-      location: "Mylapore, Chennai",
+      location: "Veerapandi, Tiruppur",
       rating: 5,
       text: "Trustworthy and honest service. They only recommend necessary repairs and don't oversell. The online booking system is also very user-friendly.",
       bike: "Yamaha FZ-S"

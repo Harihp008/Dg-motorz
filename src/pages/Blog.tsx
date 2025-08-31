@@ -9,7 +9,7 @@ const Blog = () => {
     {
       id: 1,
       title: "5 Essential Bike Maintenance Tips for Chennai Weather",
-      excerpt: "Learn how to protect your bike from Chennai's humid weather and monsoons with these expert maintenance tips.",
+      excerpt: "Learn how to protect your bike from Tiruppur's weather conditions with these expert maintenance tips for textile city environments.",
       author: "Rajesh Kumar",
       date: "March 15, 2024",
       category: "Maintenance",
@@ -31,7 +31,7 @@ const Blog = () => {
     {
       id: 3,
       title: "How to Prepare Your Bike for Long Distance Travel",
-      excerpt: "Essential checklist and preparations for safe long-distance rides across Tamil Nadu.",
+      excerpt: "Essential checklist and preparations for safe long-distance rides across Tamil Nadu from Tiruppur base.",
       author: "Mohammed Ali",
       date: "March 10, 2024",
       category: "Travel Tips",
@@ -64,7 +64,7 @@ const Blog = () => {
     {
       id: 6,
       title: "Monsoon Bike Care: Protect Your Ride from Rain",
-      excerpt: "Essential tips to protect your bike during Chennai's monsoon season and prevent water damage.",
+      excerpt: "Essential tips to protect your bike during monsoon season and prevent water damage in Tiruppur climate.",
       author: "Lakshmi Narayanan",
       date: "March 3, 2024",
       category: "Weather Care",

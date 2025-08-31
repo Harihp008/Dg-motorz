@@ -36,7 +36,7 @@ const Services = () => {
     {
       icon: <Truck className="w-8 h-8" />,
       title: "Pickup & Drop",
-      description: "Convenient pickup and delivery service across Chennai. We come to you and deliver back.",
+      description: "Convenient pickup and delivery service across Tiruppur. We come to you and deliver back.",
       features: ["Free Pickup", "Same Day Service", "GPS Tracking", "Doorstep Delivery"],
       price: "Free"
     },
